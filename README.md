@@ -43,3 +43,18 @@ Key activities included:
 13. Build addtional KPI /Charts for Performance by Products, Customers, Region
 14. Create  Dashboards based on the requirement
 
+# **🔄 Project Workflow: Sales Analysis**
+
+A well-defined analytical workflow is used in this project to generate accurate insights and compelling visualizations.
+
+- Data Collection and Analysis
+  Acquired raw datasets from various sources and evaluated data structure, data types, and relationships to ensure readiness for analysis.
+- Data Cleaning & Preparation - SQL & Excel
+  Cleaned and transformed raw data by resolving missing values, duplicates, and inconsistencies. Applied normalization, aggregation, and formatting techniques while optimizing datasets using SQL queries and Excel formulas   to ensure analysis-ready data.
+- Data Visualization & Dashboarding (Power BI & Tableau)
+  Designed interactive dashboards with clear, engaging visualizations using Power BI and Tableau. Implemented filters, drill-downs, and dynamic elements to enable intuitive exploration and comparison across multiple
+  dimensions and time periods.
+-Business Insights & Recommendations
+  Translated analytical results into actionable business insights, highlighting key trends, performance gaps, and optimization opportunities to support data-driven decision-making.
+
+📌 Outcome: A well-structured analysis that transforms raw data into actionable insights, enhancing business decision-making.📊
