@@ -59,7 +59,7 @@ A well-defined analytical workflow is used in this project to generate accurate 
 
 📌 Outcome: A well-structured analysis that transforms raw data into actionable insights, enhancing business decision-making.📊
 
-# **📈 Project Insights:**
+# **📈 Project Insights**
 
 - Overall Performance:
   Total sales amounted to ₹29.36M, with a total profit of ₹12.08M and production costs of ₹17.28M, highlighting overall profitability trends.
@@ -76,7 +76,7 @@ A well-defined analytical workflow is used in this project to generate accurate 
 
 These findings provide a comprehensive view of sales performance, regional dynamics, customer behavior, and profitability, enabling data-driven decision-making and targeted business strategies.
 
-# **🏁 Final Conclusion:**
+# **🏁 Final Conclusion**
 
 - Transformed raw sales data into interactive dashboards using Excel, Power BI, and Tableau for enhanced data exploration.
 - Delivered actionable insights on total sales, profits, production costs, and regional performance, enabling strategic decision-making.
