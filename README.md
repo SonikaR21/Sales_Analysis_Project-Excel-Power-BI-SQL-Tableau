@@ -76,6 +76,7 @@ A well-defined analytical workflow is used in this project to generate accurate 
 
 These findings provide a comprehensive view of sales performance, regional dynamics, customer behavior, and profitability, enabling data-driven decision-making and targeted business strategies.
 
+<a href-"https://github.com/SonikaR21/Sales_Analysis_Project-Excel-Power-BI-SQL-Tableau/tree/fa259dee8039df5ea72463ac16e90913b87c56e8/Dataset">Dataset</a>
 
 # **🏁 Final Conclusion:**
 
