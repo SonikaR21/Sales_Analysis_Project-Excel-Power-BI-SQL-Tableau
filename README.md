@@ -1,7 +1,8 @@
 # Sales_Analysis_Project-Excel-Power-BI-SQL-Tableau
 Executed an end-to-end data analysis project using Excel, Power BI, SQL, and Tableau to generate actionable insights, identify trends, and enable data-driven strategic decisions.
 
-#🔍 Project Overview
+#🔍 #*Project Overview*
+
 The project analyzed sales data to assess overall business performance and support data-driven decision-making. 
 Key activities included:
 
